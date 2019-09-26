@@ -10,8 +10,8 @@ sections:
     layout_style: mosaic
     num_projects_displayed: 6
     section_id: ''
-    subtitle: Our listings are diverse in style. We sure there is something for you
-    title: Styles to find
+    subtitle: Diverse listing. We are sure there is something for you.
+    title: Trending Styles
     type: portfolioblock
   - component: ServicesBlock
     section_id: services
@@ -38,7 +38,7 @@ sections:
 menus:
   main:
     title: Home
-    weight: 1
+    weight: 0
 template: home
 ---
 
